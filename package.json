@@ -40,7 +40,7 @@
     "jasmine-node": "^3.0.0",
     "jasmine-spec-reporter": "^1.2.0",
     "karma": "^4.1.0",
-    "karma-browserstack-launcher": "^1.5.1",
+    "karma-browserstack-launcher": "^1.6.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.1.0",
     "karma-jasmine": "~4.0.1",
